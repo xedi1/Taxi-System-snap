@@ -5,8 +5,8 @@
 **A powerful console-based ride-hailing simulation**  
 (like a mini Snapp / Uber built entirely in pure C)
 
-[![C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)]
+[![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)
 
