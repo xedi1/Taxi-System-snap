@@ -77,7 +77,7 @@
 
 ### Build & Run
 
-```bash
+```
 # 1. Clone the repo
 git clone https://github.com/YOUR_USERNAME/taxi-system.git
 cd taxi-system
@@ -87,8 +87,8 @@ gcc -o taxi main.c
 
 # 3. Run
 ./taxi
-# or just double-click taxi.exe on Windows```
-
+# or just double-click taxi.exe on Windows
+```
 
 🎮 Default Credentials
 
