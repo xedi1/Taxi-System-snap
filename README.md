@@ -87,7 +87,7 @@ gcc -o taxi main.c
 
 # 3. Run
 ./taxi
-# or just double-click taxi.exe on Windows
+# or just double-click taxi.exe on Windows```
 
 
 🎮 Default Credentials
