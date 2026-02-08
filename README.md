@@ -7,7 +7,7 @@
 
 [![C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![License](https://img.shields.io/badge/GPL-3.0?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)
 
 </div>
