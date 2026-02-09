@@ -53,8 +53,6 @@
   </table>
 </div>
 
-> **Note:** Replace the placeholder image URLs with real screenshots after you take them!
-
 <br>
 
 ## 🛠️ Tech Stack
