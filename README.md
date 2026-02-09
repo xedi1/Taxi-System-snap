@@ -6,7 +6,7 @@
 (like a mini Snap / Uber built entirely in pure C)
 
 <br>
-<i>NOTE:<\i> <b>Admin Login: user:admin/pass:2026</b> 
+<i>NOTE: <b>Admin Login: user:admin / pass:2026</b> 
 
 [![C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)]
 [![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
