@@ -80,11 +80,11 @@
 
 ```
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/taxi-system.git
-cd taxi-system
+git clone https://github.com/xedi1/Taxi-System-snap.git
+cd taxi-system-snap
 
 # 2. Compile
-gcc -o taxi main.c
+gcc -o final_taxi.c
 
 # 3. Run
 ./taxi
