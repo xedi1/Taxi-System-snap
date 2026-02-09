@@ -39,16 +39,16 @@
       <td><b>Driver Accepting Ride</b></td>
     </tr>
     <tr>
-      <td><img src="https://via.placeholder.com/600x350/1e1e2e/00ff9f?text=Main+Menu+Screenshot" alt="Main Menu" width="300"/></td>
-      <td><img src="https://via.placeholder.com/600x350/1e1e2e/ff9f00?text=Driver+Accept+Ride" alt="Driver Accept" width="300"/></td>
+      <td> <img width="300" alt="Main Menu" src="https://github.com/user-attachments/assets/396aa9a0-b251-4057-a3d5-f6abb1671449" /></td>
+      <td> <img width="300" alt="Driver Accepting Ride" src="https://github.com/user-attachments/assets/cc19ed4c-3dba-4252-b267-3cf376b6f526" /> </td>
     </tr>
     <tr>
       <td><b>Admin View Rides</b></td>
       <td><b>Passenger Request</b></td>
     </tr>
     <tr>
-      <td><img src="https://via.placeholder.com/600x350/1e1e2e/9f00ff?text=Admin+Rides+List" alt="Admin Rides" width="300"/></td>
-      <td><img src="https://via.placeholder.com/600x350/1e1e2e/00d4ff?text=Request+Sent" alt="Passenger Request" width="300"/></td>
+      <td> <img width="300" alt="Admin View Rides" src="https://github.com/user-attachments/assets/33582c3b-5322-4d60-a46b-df5665c852c3" /> </td>
+      <td> <img width="300" alt="Passenger Request" src="https://github.com/user-attachments/assets/f1380430-f970-4637-83b5-758288d40d2f" /> <img width="300" alt="Passenger Request" src="https://github.com/user-attachments/assets/7c0bd964-095c-4f4e-a714-57e2d57e0803" /> </td>
     </tr>
   </table>
 </div>
