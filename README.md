@@ -87,8 +87,8 @@ cd taxi-system-snap
 gcc -o final_taxi.c
 
 # 3. Run
-./taxi
-# or just double-click taxi.exe on Windows
+./final_taxi
+# or just double-click final_taxi.exe on Windows
 ```
 
 🎮 Default Credentials
