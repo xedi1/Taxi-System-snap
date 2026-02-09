@@ -3,7 +3,10 @@
 # 🚖 Advanced Console Taxi Management System
 
 **A powerful console-based ride-hailing simulation**  
-(like a mini Snapp / Uber built entirely in pure C)
+(like a mini Snap / Uber built entirely in pure C)
+
+<br>
+# Admin Login: **user:admin/pass:2026**
 
 [![C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)]
 [![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
