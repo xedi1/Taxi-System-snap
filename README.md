@@ -416,7 +416,7 @@ Program Start
 
 <div align="center">
 
-**Made with ❤️ by EDi**
+**Made with ❤️ by EDi (Hadi Gholipour _ AxGooD)**
 
 *A university / personal project that evolved into a fully functional console application.*
 
